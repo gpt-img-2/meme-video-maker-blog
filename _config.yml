@@ -1,0 +1,11 @@
+title: Meme Video Maker Guides
+description: Practical, original guides to AI video trends, prompts, editing, and reviewing short-form meme videos.
+url: https://gpt-img-2.github.io
+baseurl: /meme-video-maker-blog
+lang: en
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - .github
+  - Gemfile

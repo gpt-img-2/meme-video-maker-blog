@@ -1,23 +1,21 @@
 ---
-title: 'WYW My Sweetie AI Dance Video: A Photo Guide'
-description: 'Learn what the WYW My Sweetie dance trend is, how its Jersey Club sound is credited, and how to plan an original photo-to-video dance with clear framing, prompts, and editing.'
-created_at: '2026-10-25'
-updated_at: '2026-10-25'
-author_name: 'Meme Video Maker Editorial Team'
-author_role: 'Editorial team'
-image: 'https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-cover.webp'
-show_hero_image: true
-toc_depth: 3
-seo_keywords:
-  - 'WYW My Sweetie AI dance video'
-  - 'WYW My Sweetie dance trend'
-  - 'WYW My Sweetie video from photo'
-  - 'how to make a WYW My Sweetie AI video'
-  - 'Jersey Club AI dance prompt'
-  - 'AI dance video from photo'
+layout: post
+title: "WYW My Sweetie AI Dance Video: A Photo Guide"
+description: "Learn what the WYW My Sweetie dance trend is, how its Jersey Club sound is credited, and how to plan an original photo-to-video dance with clear framing, prompts, and editing."
+date: 2026-10-25
+updated_at: 2026-10-25
+permalink: /posts/wyw-my-sweetie-ai-dance-video/
+image: "https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-cover.webp"
+image_alt: "Editorial illustration for an original WYW My Sweetie photo-to-video dance guide"
+author: "Meme Video Maker Editorial Team"
+keywords:
+  - "WYW My Sweetie AI dance video"
+  - "WYW My Sweetie dance trend"
+  - "WYW My Sweetie video from photo"
+  - "how to make a WYW My Sweetie AI video"
+  - "Jersey Club AI dance prompt"
 ---
-
-“WYW My Sweetie” is a Jersey Club dance trend built around a track credited to nissi and 25Hzz. Dance clips use a bouncy groove, readable knee and shoulder movement, and often a playful solo or partner payoff. This guide explains what the phrase points to, what the public evidence does and does not establish, and how to plan an original photo-led dance video. Meme Video Maker does not list a dedicated WYW My Sweetie preset, so the practical route is a general [image-to-video workspace](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or the broader [AI dance video from photo guide](/ai-dance-video-from-photo). You can start at the [Meme Video Maker homepage](/) to compare creation modes.
+“WYW My Sweetie” is a Jersey Club dance trend built around a track credited to nissi and 25Hzz. Dance clips use a bouncy groove, readable knee and shoulder movement, and often a playful solo or partner payoff. This guide explains what the phrase points to, what the public evidence does and does not establish, and how to plan an original photo-led dance video. Meme Video Maker does not list a dedicated WYW My Sweetie preset, so the practical route is a general [image-to-video workspace](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or the broader [AI dance video from photo guide](https://memevideomaker.com/ai-dance-video-from-photo). You can start at the [Meme Video Maker homepage](https://memevideomaker.com/) to compare creation modes.
 
 ## What is the WYW My Sweetie dance trend?
 
@@ -49,7 +47,7 @@ A three-beat plan is also easier to evaluate after generation. If the first move
 
 Use image-to-video when you have a still image you are allowed to animate and the selected model accepts that image. Use text-to-video when the scene is easier to describe than to photograph. A static portrait can be a poor input for a dance that depends on full-body footwork; a wide source with visible legs gives the model more of the pose to work from.
 
-Meme Video Maker provides a general [image-to-video workflow](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5), not a named WYW My Sweetie template. The model selector, accepted input, duration, aspect ratio, and credit estimate can change. Check the live controls before starting a generation. A preselected model in a link is a starting point, not a promise that every setting is available to every account.
+Meme Video Maker provides a general [image-to-video workflow](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5), not a named WYW My Sweetie template. The model selector, accepted input, duration, aspect ratio, and credit estimate can change. Check the live controls before starting a generation. A preselected model in a link is a starting point, not a promise that every setting is available to every account.
 
 If the idea needs two people, consider building the shot from one wide source image that already contains both consenting adults. A single reference may not preserve two separate identities or roles as reliably as separate references in a tool built for them. Do not assume the general workspace has a dedicated two-photo dance mode. Review the current form and select a workflow that actually accepts your source.
 
@@ -66,7 +64,7 @@ Before uploading, look at the image in the intended vertical crop. Leave headroo
 ## Step-by-step: Make an original WYW My Sweetie-style video
 
 1. **Pick a permitted source.** Choose your own clear photo, original artwork, or an image you are authorized to upload. Make sure the visible body area matches the dance movement you want to show.
-2. **Choose image-to-video or text-to-video.** Open the [image-to-video workspace with Seedance 2.5 selected](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) for a supported still-image workflow, or use a text-led route if you need to describe the whole scene.
+2. **Choose image-to-video or text-to-video.** Open the [image-to-video workspace with Seedance 2.5 selected](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) for a supported still-image workflow, or use a text-led route if you need to describe the whole scene.
 3. **Decide on one short movement arc.** Write a setup, one groove, and one ending. Avoid combining footwork, a costume change, a location change, and a partner entrance in one prompt.
 4. **Check the current controls.** Confirm accepted inputs, crop, duration, and the displayed estimate in the workspace. Adjust the source before generation if the feet or hands are outside frame.
 5. **Generate a first draft and watch all of it.** Look for a readable opening, stable identity, natural joints, and an ending that follows the movement. Do not judge only a thumbnail or first frame.
@@ -129,7 +127,7 @@ a relaxed smile. Full-body vertical framing, stable camera, natural movement.
 Do not add a spin, jump, second dancer, text, outfit change, or camera cut.
 ```
 
-The prompts are starting points; image-to-video models vary in how they interpret motion. If you want another format, the [photo-to-meme video guide](/photo-to-meme-video) explains source preparation, while the [AI meme generator](/ai-meme-generator) covers a different way to build a visual joke. For a separate prompt-led transformation workflow, see the [Nightwing AI photo-to-video guide](/blog/nightwing-ai-video-guide).
+The prompts are starting points; image-to-video models vary in how they interpret motion. If you want another format, the [photo-to-meme video guide](https://memevideomaker.com/photo-to-meme-video) explains source preparation, while the [AI meme generator](https://memevideomaker.com/ai-meme-generator) covers a different way to build a visual joke. For a separate prompt-led transformation workflow, see the [Nightwing AI photo-to-video guide](https://memevideomaker.com/blog/nightwing-ai-video-guide).
 
 ![A visual prompt checklist for subject, movement, vertical framing, camera stability, and review](https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-prompt-structure.webp)
 
@@ -143,7 +141,7 @@ A good first draft can be only a few seconds. Trim empty setup time, but leave e
 
 ![A creator aligning simple visual beat markers while reviewing a dance clip before adding licensed sound](https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-edit-pacing.webp)
 
-![Silent editorial storyboard illustrating an original WYW My Sweetie-style dance planning flow](https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-storyboard.mp4)
+<figure class="video-demo"><video controls playsinline preload="metadata" poster="https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-cover.webp"><source src="https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-storyboard.mp4" type="video/mp4">Your browser does not support this video.</video><figcaption>Silent editorial storyboard illustrating an original WYW My Sweetie-style dance planning flow</figcaption></figure>
 
 ## Solo, duo, or character version?
 
@@ -151,7 +149,7 @@ A solo clip is the simplest way to test the movement. It gives the model one fac
 
 A character version can work if the audience understands that the subject is fictional. Use original artwork or an avatar you control. A dance prompt that animates a real person without permission creates a different problem from a fictional meme, even if the clip is meant as a joke. For a group, confirm that everyone is comfortable with the edit and the gesture before publishing.
 
-If you want a partner-focused edit, the [Dime Dime Baby AI dance guide](/blog/dime-dime-baby-ai-video) covers another photo-led dance format. For a more general transformation workflow, the [Nightwing AI video guide](/blog/nightwing-ai-video-guide) explains how to separate a source still from a motion pass. These formats share source-planning decisions, but they do not use the same choreography or template.
+If you want a partner-focused edit, the [Dime Dime Baby AI dance guide](https://memevideomaker.com/blog/dime-dime-baby-ai-video) covers another photo-led dance format. For a more general transformation workflow, the [Nightwing AI video guide](https://memevideomaker.com/blog/nightwing-ai-video-guide) explains how to separate a source still from a motion pass. These formats share source-planning decisions, but they do not use the same choreography or template.
 
 ![Two fictional adult friends practicing a side-by-side dance with a simple staggered entry in a vertical phone edit](https://cdn.memevideomaker.com/uploads/2026-10-25/wyw-my-sweetie-ai-dance-video-duo-edit.webp)
 
@@ -185,7 +183,7 @@ I could not confirm that from an authoritative artist or label statement. Online
 
 ### Does Meme Video Maker have a WYW My Sweetie template?
 
-There is no WYW-named preset in the current template list. Use the general [image-to-video workspace](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or another workflow shown in the live interface.
+There is no WYW-named preset in the current template list. Use the general [image-to-video workspace](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or another workflow shown in the live interface.
 
 ### Can I create the dance from one photo?
 
@@ -207,4 +205,4 @@ Motion generation can reinterpret fine details from the reference. Use a sharp, 
 
 Treat “WYW My Sweetie AI dance video” as a search for a short, playful photo-to-motion idea. Start with a source you can use, plan a few clear beats, and check what the selected model supports. Review the entire result, then add the exact sound and captions during editing if you have the right to use them.
 
-When you are ready, open [Meme Video Maker](/) or go directly to the [image-to-video workspace](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5). If you want to compare another dance format first, revisit the [Dime Dime Baby photo dance guide](/blog/dime-dime-baby-ai-video). A careful source, one readable movement, and an honest edit are more useful than a claim that one prompt guarantees a trend result.
+When you are ready, open [Meme Video Maker](https://memevideomaker.com/) or go directly to the [image-to-video workspace](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5). If you want to compare another dance format first, revisit the [Dime Dime Baby photo dance guide](https://memevideomaker.com/blog/dime-dime-baby-ai-video). A careful source, one readable movement, and an honest edit are more useful than a claim that one prompt guarantees a trend result.

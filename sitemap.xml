@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ '/' | absolute_url }}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% assign guides = site.pages | where: 'layout', 'post' | sort: 'date' | reverse %}
+  {% for guide in guides %}
+  <url>
+    <loc>{{ guide.url | absolute_url }}</loc>
+    <lastmod>{{ guide.updated_at | default: guide.date | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {% endfor %}
+</urlset>

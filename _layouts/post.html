@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="article">
+  <header class="article-header">
+    <p class="eyebrow"><a href="{{ '/' | relative_url }}">Guides</a> <span aria-hidden="true">/</span> {{ page.date | date: "%B %-d, %Y" }}</p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="article-deck">{{ page.description | escape }}</p>
+    <p class="byline">By {{ page.author | default: site.title | escape }}</p>
+    <img class="hero-image" src="{{ page.image }}" alt="{{ page.image_alt | default: page.title | escape }}" width="1200" height="675">
+  </header>
+
+  <div class="article-body">{{ content }}</div>
+
+  <aside class="article-cta" aria-label="Create your own video">
+    <p class="eyebrow">Ready to make a first draft?</p>
+    <h2>Turn a clear idea into a short video</h2>
+    <p>Choose a workflow that fits your source image or scene, then review the complete result before sharing.</p>
+    <a class="button" href="https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&amp;model=seedance-2-5">Open the image-to-video workspace</a>
+    <a class="text-link" href="https://memevideomaker.com/">See all Meme Video Maker tools</a>
+  </aside>
+
+  {% assign guides = site.pages | where: 'layout', 'post' | sort: 'date' | reverse %}
+  <nav class="related" aria-label="Related guides">
+    <h2>Related guides</h2>
+    <ul>
+      {% for guide in guides %}
+        {% if guide.url != page.url %}
+          <li><a href="{{ guide.url | relative_url }}">{{ guide.title | escape }}</a><span>{{ guide.description | escape }}</span></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "image": [{{ page.image | jsonify }}],
+    "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+    "dateModified": {{ page.updated_at | default: page.date | date_to_xmlschema | jsonify }},
+    "author": {"@type": "Organization", "name": {{ page.author | default: site.title | jsonify }}},
+    "publisher": {"@type": "Organization", "name": {{ site.title | jsonify }}},
+    "mainEntityOfPage": {"@type": "WebPage", "@id": {{ page.url | absolute_url | jsonify }}},
+    "keywords": {{ page.keywords | jsonify }}
+  }
+  </script>
+</article>

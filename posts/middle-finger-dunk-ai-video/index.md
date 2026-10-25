@@ -1,23 +1,21 @@
 ---
-title: 'Middle Finger Dunk AI Video: Complete Guide'
-description: 'Learn what the Middle Finger Dunk AI trend refers to, why templates show different gestures, and how to plan an original basketball parody with clear roles, prompts, and a safe review.'
-created_at: '2026-10-25'
-updated_at: '2026-10-25'
-author_name: 'Meme Video Maker Editorial Team'
-author_role: 'Editorial team'
-image: 'https://cdn.memevideomaker.com/uploads/2026-10-25/middle-finger-dunk-ai-video-cover.webp'
-show_hero_image: true
-toc_depth: 3
-seo_keywords:
-  - 'Middle Finger Dunk AI video'
-  - 'Middle Finger Dunk trend'
-  - 'AI basketball dunk video'
-  - 'Middle Finger Dunk prompt'
-  - 'how to make a dunk meme video'
-  - 'AI video from photo'
+layout: post
+title: "Middle Finger Dunk AI Video: Complete Guide"
+description: "Learn what the Middle Finger Dunk AI trend means, why templates show different gestures, and how to plan an original basketball parody with clear prompts."
+date: 2026-10-25
+updated_at: 2026-10-25
+permalink: /posts/middle-finger-dunk-ai-video/
+image: "https://cdn.memevideomaker.com/uploads/2026-10-25/middle-finger-dunk-ai-video-cover.webp"
+image_alt: "Editorial illustration of a fictional basketball dunk scene for the Middle Finger Dunk AI guide"
+author: "Meme Video Maker Editorial Team"
+keywords:
+  - "Middle Finger Dunk AI video"
+  - "Middle Finger Dunk trend"
+  - "AI basketball dunk video"
+  - "Middle Finger Dunk prompt"
+  - "how to make a dunk meme video"
 ---
-
-“Middle Finger Dunk” is a search label for an AI basketball parody in which one player takes on a defender, finishes at the rim, and turns the play into a camera-facing celebration. The name is less precise than it sounds: current template pages do not agree on whether the ending is an explicit rude gesture, a raised index finger, or a cleaner taunt. Meme Video Maker does not list a dedicated Middle Finger Dunk preset, so this guide focuses on planning an original scene with a general [image-to-video workspace](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or a text-led workflow. Start at the [Meme Video Maker homepage](/) to see the available creation modes.
+“Middle Finger Dunk” is a search label for an AI basketball parody in which one player takes on a defender, finishes at the rim, and turns the play into a camera-facing celebration. The name is less precise than it sounds: current template pages do not agree on whether the ending is an explicit rude gesture, a raised index finger, or a cleaner taunt. Meme Video Maker does not list a dedicated Middle Finger Dunk preset, so this guide focuses on planning an original scene with a general [image-to-video workspace](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or a text-led workflow. Start at the [Meme Video Maker homepage](https://memevideomaker.com/) to see the available creation modes.
 
 ## What does “Middle Finger Dunk” mean?
 
@@ -49,11 +47,11 @@ The sequence illustration below is an editorial map rather than a claim about a 
 
 Pages describing this meme vary. Some ask for two separate photos and assign one person as the dunker and one as the defender. Others describe a one-photo adaptation, a shorter or longer clip, or a cleaner ending. These details belong to each individual service’s implementation. They are not evidence that a general image-to-video model accepts two separate portraits or can reproduce a template’s exact timing.
 
-Meme Video Maker currently offers general creation workflows, not a Middle Finger Dunk-branded template. Use [image-to-video](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) when the selected model accepts a still reference. Use [text-to-video](/workspace/text-to-video) when you need to describe the whole fictional setup from scratch. Confirm the form’s accepted input, duration, aspect ratio, and displayed estimate before submitting.
+Meme Video Maker currently offers general creation workflows, not a Middle Finger Dunk-branded template. Use [image-to-video](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) when the selected model accepts a still reference. Use [text-to-video](https://memevideomaker.com/workspace/text-to-video) when you need to describe the whole fictional setup from scratch. Confirm the form’s accepted input, duration, aspect ratio, and displayed estimate before submitting.
 
 If you have two people who want to be in the scene, do not assume that a two-photo template exists in the general workspace. One wide source image containing both adults may be more suitable when a model supports only one image. Alternatively, describe invented characters in text-to-video. The interface is the source of truth for current input fields, not a third-party template tutorial.
 
-The same role-planning decision comes up in other staged scenes. The [Eavesdrop AI video guide](/blog/eavesdrop-ai-video-guide) shows how to keep two fictional characters readable through a simple setup and reaction.
+The same role-planning decision comes up in other staged scenes. The [Eavesdrop AI video guide](https://memevideomaker.com/blog/eavesdrop-ai-video-guide) shows how to keep two fictional characters readable through a simple setup and reaction.
 
 ## Build a source frame that can support the dunk
 
@@ -69,7 +67,7 @@ Avoid brand logos, readable jerseys, celebrity likenesses, and scoreboard text u
 
 1. **Choose a version of the ending.** Decide whether you want a clean number-one salute, a shoulder brush, a smile, or an adult-oriented taunt. Do not leave the gesture implied by the keyword alone.
 2. **Choose a permitted source.** Use your own photo, original artwork, or consenting adults. For a one-image workflow, prefer a wide source that already shows both roles and the hoop.
-3. **Open a compatible creation mode.** Try the [image-to-video workspace with Seedance 2.5 selected](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) if it accepts your still. Use [text-to-video](/workspace/text-to-video) to describe a full fictional court scene.
+3. **Open a compatible creation mode.** Try the [image-to-video workspace with Seedance 2.5 selected](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) if it accepts your still. Use [text-to-video](https://memevideomaker.com/workspace/text-to-video) to describe a full fictional court scene.
 4. **Write a four-beat action plan.** Name the setup, crossover, dunk, and ending in that order. Keep the shot and setting stable so the action remains the main change.
 5. **Review the visible settings and cost estimate.** Check the accepted image inputs, frame ratio, model duration, and displayed credits. A preselected model may not expose the same options in every workflow.
 6. **Generate a short first draft.** Watch the beginning, move, dunk, and final pose. Check whether the ball reaches the hoop and the defender stays in the intended role.
@@ -132,9 +130,9 @@ raised index finger. Keep bodies proportionate, avoid camera cuts, and do not
 invent jerseys, logos, captions, or a second basketball.
 ```
 
-These examples are prompt starting points, not guarantees or copies of a creator’s template. The [photo-to-meme video guide](/photo-to-meme-video) covers source preparation for other short edits, and the [AI meme generator](/ai-meme-generator) can help you explore a different joke format. If you want a character change instead of a sports scene, the [Nightwing AI photo-to-video guide](/blog/nightwing-ai-video-guide) explains a still-first workflow.
+These examples are prompt starting points, not guarantees or copies of a creator’s template. The [photo-to-meme video guide](https://memevideomaker.com/photo-to-meme-video) covers source preparation for other short edits, and the [AI meme generator](https://memevideomaker.com/ai-meme-generator) can help you explore a different joke format. If you want a character change instead of a sports scene, the [Nightwing AI photo-to-video guide](https://memevideomaker.com/blog/nightwing-ai-video-guide) explains a still-first workflow.
 
-For another original scene where one controlled action carries the story, compare the [Tiny Knight Guardian AI video guide](/blog/tiny-knight-guardian-ai-video-guide). Its character and setting differ, but the source-frame and motion-review decisions are useful across both workflows.
+For another original scene where one controlled action carries the story, compare the [Tiny Knight Guardian AI video guide](https://memevideomaker.com/blog/tiny-knight-guardian-ai-video-guide). Its character and setting differ, but the source-frame and motion-review decisions are useful across both workflows.
 
 ![Visual prompt map connecting a source frame to a crossover, dunk, and final pose using a single stable camera](https://cdn.memevideomaker.com/uploads/2026-10-25/middle-finger-dunk-ai-video-prompt-cues.webp)
 
@@ -162,7 +160,7 @@ Check consent and context as well. Do not use someone’s face to create an emba
 
 The video below is a silent editorial storyboard made from original illustrations. It demonstrates a planning sequence, not a real game clip or an actual Meme Video Maker generation.
 
-![Silent editorial storyboard showing how to structure and review a fictional Middle Finger Dunk-style basketball parody](https://cdn.memevideomaker.com/uploads/2026-10-25/middle-finger-dunk-ai-video-storyboard.mp4)
+<figure class="video-demo"><video controls playsinline preload="metadata" poster="https://cdn.memevideomaker.com/uploads/2026-10-25/middle-finger-dunk-ai-video-cover.webp"><source src="https://cdn.memevideomaker.com/uploads/2026-10-25/middle-finger-dunk-ai-video-storyboard.mp4" type="video/mp4">Your browser does not support this video.</video><figcaption>Silent editorial storyboard showing how to structure and review a fictional Middle Finger Dunk-style basketball parody</figcaption></figure>
 
 ## Compare the clean and rude versions
 
@@ -186,7 +184,7 @@ Not in every description or template. Some pages describe an explicit middle-fin
 
 ### Does Meme Video Maker have a Middle Finger Dunk template?
 
-There is no named Middle Finger Dunk preset in the current template list. Use a general [image-to-video workspace](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or [text-to-video workflow](/workspace/text-to-video), then confirm the available inputs.
+There is no named Middle Finger Dunk preset in the current template list. Use a general [image-to-video workspace](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5) or [text-to-video workflow](https://memevideomaker.com/workspace/text-to-video), then confirm the available inputs.
 
 ### Can I make the dunk from one photo?
 
@@ -212,4 +210,4 @@ Only if they agree to the likeness, the joke, and the intended sharing context. 
 
 Use “Middle Finger Dunk AI video” as a discovery phrase, not as a complete production brief. Decide the gesture, set up two fictional or consenting adult roles, describe the play in order, and verify the output before you post. A simple source and a clear ending make the gag easier to follow and easier to revise.
 
-When you are ready, open [Meme Video Maker](/) or check the current [image-to-video controls](/workspace/image-to-video?mode=image-to-video&model=seedance-2-5). If you want another kind of photo-based meme, see the [photo-to-meme video guide](/photo-to-meme-video) or browse the [AI meme generator](/ai-meme-generator). Keep the scene fictional, use images you can share, and let the finished clip speak for itself.
+When you are ready, open [Meme Video Maker](https://memevideomaker.com/) or check the current [image-to-video controls](https://memevideomaker.com/workspace/image-to-video?mode=image-to-video&model=seedance-2-5). If you want another kind of photo-based meme, see the [photo-to-meme video guide](https://memevideomaker.com/photo-to-meme-video) or browse the [AI meme generator](https://memevideomaker.com/ai-meme-generator). Keep the scene fictional, use images you can share, and let the finished clip speak for itself.

@@ -1,0 +1,23 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" />
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self" type="application/atom+xml" />
+  <id>{{ '/' | absolute_url }}</id>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  {% assign guides = site.pages | where: 'layout', 'post' | sort: 'date' | reverse %}
+  {% for guide in guides %}
+  <entry>
+    <title>{{ guide.title | xml_escape }}</title>
+    <link href="{{ guide.url | absolute_url }}" rel="alternate" type="text/html" />
+    <id>{{ guide.url | absolute_url }}</id>
+    <updated>{{ guide.updated_at | default: guide.date | date_to_xmlschema }}</updated>
+    <summary>{{ guide.description | xml_escape }}</summary>
+  </entry>
+  {% endfor %}
+</feed>
